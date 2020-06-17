@@ -1,3 +1,3 @@
 # Socket.io
 
-![Alt text](/imgs/1.jpeg)
+![Alt text](/prototype/1.jpeg)
