@@ -1,4 +1,4 @@
-# A Simple messaing app using Node js, Socket.io
+# A simple messaing app using Node js, Socket.io
 
 ![Alt text](/prototype/1.jpeg)
 
